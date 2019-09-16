@@ -1,5 +1,3 @@
-setwd('C:/Path/')
-
 ### Final
 
 ## Problem 1
