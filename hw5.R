@@ -42,7 +42,7 @@ boxplot(pvalPearson,pvalSpearman,pvalKendall,pvalList)
 
 
 ## Problem 3
-dat = read.table(file="C:/Users/Christina/Documents/Code/R/sea_ice_data.txt", header=TRUE)
+dat = read.table(file="C:/Path/sea_ice_data.txt", header=TRUE)
 
 # Part A
 fit1 = lm(dat[[2]]~dat[[1]])
